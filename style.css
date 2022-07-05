@@ -1,0 +1,147 @@
+@import 'null.css';
+
+@import url('https://fonts.googleapis.com/css?family=Fascinate:400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Titan One:regular&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Stoke:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik Moonrocks:regular&display=swap');
+
+
+
+body {
+	background-color: burlywood;
+}
+
+.wrapper {
+	max-width: 1125px;
+	margin: 0 auto;
+}
+
+header {
+	text-shadow: 4px 3px 0px rgba(233,24,24,0.6);
+	color: rgb(141, 84, 15);
+	font-weight: 600;
+	font-size: 50px;
+	text-align: center;
+	background-color: aqua;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	border: 2px red solid;
+	border-radius: 5px;
+
+
+}
+
+.ambitions {
+        text-shadow: 10px 0px 0px rgba(86,233,24,0.6);;
+	color: purple;
+	font-family: 'Fascinate';
+	font-size: 55px;
+	font-weight: 400;
+	background: pink url(image_one.png) 450px 50px / auto auto no-repeat;
+	padding: 300px 200px 180px 80px;
+	margin-bottom: 50px;
+	border-radius: 100% 0% 100% 0% / 23% 78% 22% 77%
+}
+
+.teacher {
+	font-family: 'Rubik Moonrocks';
+	font-weight: 400;
+	color: aqua;
+	background: url(Screenshot_3.png) 0px 0px/ auto auto no-repeat;
+
+	padding: 300px 200px 300px 80px;
+	margin-bottom: 40px;
+	border-radius: 10px;
+
+
+}
+
+.teacher_two {
+	display: inline-block;
+	padding: 50px;
+	background-color: rgb(209, 204, 197);
+	border-radius: 100% 0% 84% 17% / 88% 0% 100% 52%;
+	margin-top: 100px;
+	margin-left: 30px;
+	font-weight: 400;
+	font-size: 25px;
+	color: red;
+
+}
+
+
+ul {
+	max-width: 1125px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+li {
+	padding: 80px 30px;
+	display: inline-block;
+	font-size: 40px;
+	margin: 0px 35px 0px 0px;
+	text-align: center;
+}
+
+
+.text-two {
+
+        
+	background: rgb(2, 0, 36);
+	background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(63, 138, 108, 1) 49%, rgba(62, 139, 111, 1) 50%, rgba(184, 167, 41, 0.4353509470194328) 53%, rgba(0, 212, 255, 1) 100%);
+}
+
+.text-one {
+     
+	background: rgb(131, 58, 180);
+	background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 80%, rgba(252, 176, 69, 1) 100%);
+}
+
+.text-three {
+	
+	background: rgb(63, 94, 251);
+	background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+
+.info p {
+	
+	color: rgb(203, 124, 20);
+	font-weight: 400;
+	font-size: 50px;
+	padding: 300px 100px 300px 400px;
+
+}
+
+
+.info {
+	
+	background: url(brain.jpg)  repeat-x, url(space.img) 0 0 / 100% no-repeat ;
+	margin-bottom: 50px;
+	max-height: 800px;
+
+}
+
+
+.homework {
+	background: url(face.jpg) 0 0/ auto auto no-repeat, url(mechanic.jpg) 0 0/ 100% no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	font-family: 'Rubik Moonrocks';
+	font-weight: 400;
+	padding: 200px 300px 300px 300px;
+	font-size: 50px;
+	color: red;
+	margin-bottom: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
